@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954974999784",
+    "project_id": "jet-ai-7e90b",
+    "storage_bucket": "jet-ai-7e90b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954974999784:android:d35a36c0707c34afaee55d",
+        "android_client_info": {
+          "package_name": "hoods.com.jetai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBppjUl2-yrzfgP8MiVKGKkHWTFmu6bKtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
