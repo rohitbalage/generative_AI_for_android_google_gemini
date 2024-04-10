@@ -23,6 +23,9 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     Greeting("Android")
+
+                    val apiKey: String? = System.getProperty("apiKey")
+
                 }
             }
         }
